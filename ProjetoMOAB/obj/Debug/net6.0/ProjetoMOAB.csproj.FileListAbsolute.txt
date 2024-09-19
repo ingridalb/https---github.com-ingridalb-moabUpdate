@@ -1,0 +1,267 @@
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\bin\Debug\net6.0\appsettings.json
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\bin\Debug\net6.0\ProjetoMOAB.staticwebassets.runtime.json
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\bin\Debug\net6.0\ProjetoMOAB.exe
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\bin\Debug\net6.0\ProjetoMOAB.deps.json
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\bin\Debug\net6.0\ProjetoMOAB.runtimeconfig.json
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\bin\Debug\net6.0\ProjetoMOAB.dll
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\bin\Debug\net6.0\ProjetoMOAB.pdb
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\bin\Debug\net6.0\Humanizer.dll
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\obj\Debug\net6.0\ProjetoMOAB.csproj.AssemblyReference.cache
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\obj\Debug\net6.0\ProjetoMOAB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\obj\Debug\net6.0\ProjetoMOAB.AssemblyInfoInputs.cache
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\obj\Debug\net6.0\ProjetoMOAB.AssemblyInfo.cs
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\obj\Debug\net6.0\ProjetoMOAB.csproj.CoreCompileInputs.cache
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\obj\Debug\net6.0\ProjetoMOAB.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\obj\Debug\net6.0\ProjetoMOAB.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\obj\Debug\net6.0\ProjetoMOAB.RazorAssemblyInfo.cache
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\obj\Debug\net6.0\ProjetoMOAB.RazorAssemblyInfo.cs
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\obj\Debug\net6.0\staticwebassets\msbuild.ProjetoMOAB.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjetoMOAB.props
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjetoMOAB.props
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjetoMOAB.props
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\obj\Debug\net6.0\scopedcss\bundle\ProjetoMOAB.styles.css
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\obj\Debug\net6.0\scopedcss\projectbundle\ProjetoMOAB.bundle.scp.css
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\obj\Debug\net6.0\ProjetoM.D4C45FB1.Up2Date
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\obj\Debug\net6.0\ProjetoMOAB.dll
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\obj\Debug\net6.0\refint\ProjetoMOAB.dll
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\obj\Debug\net6.0\ProjetoMOAB.pdb
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\obj\Debug\net6.0\ProjetoMOAB.genruntimeconfig.cache
+C:\Users\italo\source\repos\ProjetoMOAB\ProjetoMOAB\obj\Debug\net6.0\ref\ProjetoMOAB.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\appsettings.json
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\ProjetoMOAB.staticwebassets.runtime.json
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\ProjetoMOAB.exe
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\ProjetoMOAB.deps.json
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\ProjetoMOAB.runtimeconfig.json
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\ProjetoMOAB.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\ProjetoMOAB.pdb
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\obj\Debug\net6.0\ProjetoMOAB.csproj.AssemblyReference.cache
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\obj\Debug\net6.0\ProjetoMOAB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\obj\Debug\net6.0\ProjetoMOAB.AssemblyInfoInputs.cache
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\obj\Debug\net6.0\ProjetoMOAB.AssemblyInfo.cs
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\obj\Debug\net6.0\ProjetoMOAB.csproj.CoreCompileInputs.cache
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\obj\Debug\net6.0\ProjetoMOAB.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\obj\Debug\net6.0\ProjetoMOAB.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\obj\Debug\net6.0\ProjetoMOAB.RazorAssemblyInfo.cache
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\obj\Debug\net6.0\ProjetoMOAB.RazorAssemblyInfo.cs
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\obj\Debug\net6.0\staticwebassets\msbuild.ProjetoMOAB.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjetoMOAB.props
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjetoMOAB.props
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjetoMOAB.props
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\obj\Debug\net6.0\scopedcss\bundle\ProjetoMOAB.styles.css
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\obj\Debug\net6.0\scopedcss\projectbundle\ProjetoMOAB.bundle.scp.css
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\obj\Debug\net6.0\ProjetoM.D4C45FB1.Up2Date
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\obj\Debug\net6.0\ProjetoMOAB.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\obj\Debug\net6.0\refint\ProjetoMOAB.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\obj\Debug\net6.0\ProjetoMOAB.pdb
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\obj\Debug\net6.0\ProjetoMOAB.genruntimeconfig.cache
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\obj\Debug\net6.0\ref\ProjetoMOAB.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\Google.Api.CommonProtos.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\Google.Api.Gax.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\Google.Api.Gax.Grpc.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\Google.Apis.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\Google.Apis.Auth.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\Google.Apis.Core.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\Google.Cloud.TextToSpeech.V1.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\Google.LongRunning.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\Grpc.Auth.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\Grpc.Net.Client.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\Grpc.Net.Common.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\System.Management.dll
+C:\Users\Trabalho\Desktop\Faculdade\Estágio Supervisionado I\ProjetoMoab-Desenvolvimento\ProjetoMOAB\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\appsettings.json
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\ProjetoMOAB.staticwebassets.runtime.json
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\ProjetoMOAB.exe
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\ProjetoMOAB.deps.json
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\ProjetoMOAB.runtimeconfig.json
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\ProjetoMOAB.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\ProjetoMOAB.pdb
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\Google.Api.CommonProtos.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\Google.Api.Gax.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\Google.Api.Gax.Grpc.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\Google.Apis.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\Google.Apis.Auth.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\Google.Apis.Core.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\Google.Cloud.TextToSpeech.V1.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\Google.LongRunning.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\Grpc.Auth.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\Grpc.Net.Client.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\Grpc.Net.Common.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\Humanizer.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\System.Management.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\obj\Debug\net6.0\ProjetoMOAB.csproj.AssemblyReference.cache
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\obj\Debug\net6.0\ProjetoMOAB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\obj\Debug\net6.0\ProjetoMOAB.AssemblyInfoInputs.cache
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\obj\Debug\net6.0\ProjetoMOAB.AssemblyInfo.cs
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\obj\Debug\net6.0\ProjetoMOAB.csproj.CoreCompileInputs.cache
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\obj\Debug\net6.0\ProjetoMOAB.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\obj\Debug\net6.0\ProjetoMOAB.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\obj\Debug\net6.0\ProjetoMOAB.RazorAssemblyInfo.cache
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\obj\Debug\net6.0\ProjetoMOAB.RazorAssemblyInfo.cs
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\obj\Debug\net6.0\staticwebassets\msbuild.ProjetoMOAB.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjetoMOAB.props
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjetoMOAB.props
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjetoMOAB.props
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\obj\Debug\net6.0\scopedcss\bundle\ProjetoMOAB.styles.css
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\obj\Debug\net6.0\scopedcss\projectbundle\ProjetoMOAB.bundle.scp.css
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\obj\Debug\net6.0\ProjetoM.D4C45FB1.Up2Date
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\obj\Debug\net6.0\ProjetoMOAB.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\obj\Debug\net6.0\refint\ProjetoMOAB.dll
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\obj\Debug\net6.0\ProjetoMOAB.pdb
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\obj\Debug\net6.0\ProjetoMOAB.genruntimeconfig.cache
+C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\obj\Debug\net6.0\ref\ProjetoMOAB.dll

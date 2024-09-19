@@ -1,0 +1,181 @@
+﻿@page
+@model ProjetoMOAB.Pages.Visitante.Eventos.evento2022Model
+@{
+    ViewData["Title"] = "Evento 1 - 2022";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<header class="masthead bg-primary text-white text-center">
+    <div class="container d-flex align-items-center flex-column">
+        <!-- Masthead Avatar Image-->
+        <a href="">
+            <img class="masthead-avatar mb-5" src="/assets/img/portfolio/LogoMOAB.png" alt="..." />
+        </a>
+        <!-- Masthead Heading-->
+        <h1 class="MOAB-Header mb-0">Evento realizado em 2022</h1>
+        <!-- Icon Divider-->
+        <div class="divider-custom divider-light">
+            <div class="divider-custom-line"></div>
+            <div class="divider-custom-icon"><i class="fa-solid fa-puzzle-piece"></i></div>
+            <div class="divider-custom-line"></div>
+        </div>
+
+        <!-- Masthead Subheading-->
+        <p class="masthead-subheading font-weight-light mb-0">Galeria de fotos do evento</p>
+
+    </div>
+</header>
+
+<!-- Galeria de Imagens -->
+<section class="gallery-section py-5">
+    <div class="container">
+        <div class="row g-4">
+            @for (int i = 1; i <= 40; i++)
+            {
+                <div class="col-md-3 col-sm-6">
+                    <div class="gallery-item">
+                        <img src="~/assets/img/portfolio/foto (@i).jpg" alt="Foto do Evento 2022" class="img-fluid gallery-img" />
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</section>
+
+<div class="container mt-4">
+    <p class="event-description text-center mx-auto">
+        O <strong>Evento de 02/04/2022</strong> foi uma celebração marcante de <strong>conscientização do orgulho autista</strong> pela comunidade MOAB - Movimento Orgulho Autista Brasil. Realizado no coração da cidade, o evento reuniu pessoas de todas as idades para um dia cheio de atividades e confraternização.
+        <br><br>
+        Com uma programação diversificada, os participantes puderam desfrutar de workshops, apresentações culturais e uma exposição de fotos que destacou os momentos mais importantes do evento.
+        <br><br>
+        Além disso, tivemos a presença de diversas personalidades e apoiadores que contribuíram para o sucesso do evento. Agradecemos a todos que participaram e tornaram este evento inesquecível.
+        <br><br>
+        Fique atento para os próximos eventos e continue acompanhando nossas redes sociais para mais atualizações.
+     
+    </p>
+</div>
+
+<!-- Botão de Voltar -->
+<div class="container text-center mt-4">
+    
+    <a href="javascript:history.back()" class="btn btn-secondary">Voltar</a>
+    <br><br>
+</div>
+
+
+
+
+<!-- Estilos -->
+<style>
+
+
+    .container{
+        color: white;
+    }
+    /* Estilização do parágrafo do evento */
+    .event-description {
+        font-size: 1.1rem;
+        line-height: 1.75;
+        max-width: 800px; /* Limita a largura do texto */
+        color: white; /* Cor mais suave */
+        padding: 1.5rem; /* Padding para dar mais espaçamento ao texto */
+        background-color: #f9f9f9; /* Fundo suave */
+        border-radius: 10px; /* Borda arredondada */
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* Sombra no texto */
+    }
+
+    /* Alinhamento central */
+    .mx-auto {
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    /* Masthead */
+    .masthead {
+        background-color: #007bff;
+        padding: 5rem 0;
+    }
+
+    .masthead-avatar {
+        width: 150px;
+        border-radius: 50%;
+    }
+
+    .MOAB-Header {
+        font-size: 3rem;
+        font-weight: bold;
+    }
+
+    .divider-custom {
+        margin-top: 1.5rem;
+        margin-bottom: 1.5rem;
+    }
+
+    .divider-custom-line {
+        width: 100px;
+        height: 2px;
+        background-color: white;
+    }
+
+    .divider-custom-icon {
+        color: white;
+        font-size: 2rem;
+    }
+
+    .masthead-subheading {
+        font-size: 1.25rem;
+        margin-bottom: 2rem;
+        color: white !important;
+    }
+
+    /* Galeria de Imagens */
+    .gallery-section {
+        background-color: #f8f9fa;
+    }
+
+    .gallery-item {
+        overflow: hidden;
+        position: relative;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        transition: transform 0.3s, box-shadow 0.3s;
+    }
+
+        .gallery-item:hover {
+            transform: scale(1.05);
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+        }
+
+    .gallery-img {
+        width: 100%;
+        height: 250px;
+        object-fit: cover;
+        border-radius: 10px;
+    }
+
+    /* Texto do evento */
+    .container p {
+        font-size: 1rem;
+        line-height: 1.7;
+        color: #555;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+    }
+
+    /* Botão de Voltar */
+    .btn-secondary {
+        background-color: #6c757d;
+        border: none;
+        padding: 10px 20px;
+        border-radius: 5px;
+        color: white;
+        font-size: 1rem;
+        text-decoration: none;
+        display: inline-block;
+        transition: background-color 0.3s;
+    }
+
+        .btn-secondary:hover {
+            background-color: #5a6268;
+        }
+</style>
