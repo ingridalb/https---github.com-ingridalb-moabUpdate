@@ -4,8 +4,9 @@
     "\\ProjetoMOAB",
     "\\ProjetoMOAB\\Pages",
     "\\ProjetoMOAB\\Pages\\Visitante",
-    "\\ProjetoMOAB\\Pages\\Visitante\\Eventos"
+    "\\ProjetoMOAB\\Pages\\Visitante\\Eventos",
+    "\\ProjetoMOAB\\Pages\\Visitante\\SaibaMais"
   ],
-  "SelectedNode": "\\ProjetoMOAB.sln",
+  "SelectedNode": "\\ProjetoMOAB\\Pages\\Visitante\\SaibaMais\\SaibaMais.cshtml",
   "PreviewInSolutionExplorer": false
 }

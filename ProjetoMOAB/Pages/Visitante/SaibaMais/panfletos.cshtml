@@ -1,0 +1,42 @@
+﻿@page
+@model ProjetoMOAB.Pages.Visitante.SaibaMais.panfletosModel
+@{
+    ViewData["Title"] = "Saiba Mais";
+}
+
+<header class="masthead bg-primary text-white text-center">
+    <div class="container d-flex align-items-center flex-column">
+        <!-- Masthead Avatar Image-->
+        <a href="/#moab">
+            <img id="moab" class="masthead-avatar mb-5" src="/assets/img/portfolio/LogoMOAB.png" alt="Logo MOAB" />
+        </a>
+        <!-- Masthead Heading-->
+        <h1 class="MOAB-Header mb-0">Sobre Nós</h1>
+        <!-- Icon Divider-->
+        <div class="divider-custom divider-light">
+            <div class="divider-custom-line"></div>
+            <div class="divider-custom-icon"><i class="fa-solid fa-puzzle-piece"></i></div>
+            <div class="divider-custom-line"></div>
+        </div>
+    </div>
+</header>
+
+<section class="gallery-section py-5">
+    <div class="container">
+        <h1 class="text-center mb-4">Panfletos</h1>
+        <div class="row g-4">
+            @for (int i = 1; i <= 7; i++)
+            {
+                <div class="col-md-3 col-sm-6">
+                    <div class="gallery-item">
+                        <img src="/assets/img/saibamais/panfleto/folder (@i).webp" alt="Panfleto @i" class="img-fluid gallery-img" />
+                    </div>
+                </div>
+            }
+        </div>
+        <div class="text-center mt-5">
+            <p class="lead">Explore nossos panfletos e conheça mais sobre as iniciativas e projetos que estamos desenvolvendo para a comunidade. Sua participação é fundamental para o sucesso de nossas ações!</p>
+            <p class="small">Para mais informações, não hesite em nos contatar.</p>
+        </div>
+    </div>
+</section>
