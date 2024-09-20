@@ -9,63 +9,99 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ProjetoMOAB
 build_property.RootNamespace = ProjetoMOAB
-build_property.ProjectDir = C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB\
+build_property.ProjectDir = C:\Users\clevi\OneDrive\Área de Trabalho\ProjetoMoab para testes\ProjetoMOAB\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\clevi\OneDrive\Área de Trabalho\Projeto moab\ProjetoMOAB
+build_property.MSBuildProjectDirectory = C:\Users\clevi\OneDrive\Área de Trabalho\ProjetoMoab para testes\ProjetoMOAB
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/clevi/OneDrive/Área de Trabalho/Projeto moab/ProjetoMOAB/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/clevi/OneDrive/Área de Trabalho/ProjetoMoab para testes/ProjetoMOAB/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/clevi/OneDrive/Área de Trabalho/Projeto moab/ProjetoMOAB/Pages/Error.cshtml]
+[C:/Users/clevi/OneDrive/Área de Trabalho/ProjetoMoab para testes/ProjetoMOAB/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/clevi/OneDrive/Área de Trabalho/Projeto moab/ProjetoMOAB/Pages/Index.cshtml]
+[C:/Users/clevi/OneDrive/Área de Trabalho/ProjetoMoab para testes/ProjetoMOAB/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/clevi/OneDrive/Área de Trabalho/Projeto moab/ProjetoMOAB/Pages/Privacy.cshtml]
+[C:/Users/clevi/OneDrive/Área de Trabalho/ProjetoMoab para testes/ProjetoMOAB/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/clevi/OneDrive/Área de Trabalho/Projeto moab/ProjetoMOAB/Pages/Shared/_LoginPartial.cshtml]
+[C:/Users/clevi/OneDrive/Área de Trabalho/ProjetoMoab para testes/ProjetoMOAB/Pages/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/clevi/OneDrive/Área de Trabalho/Projeto moab/ProjetoMOAB/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/clevi/OneDrive/Área de Trabalho/ProjetoMoab para testes/ProjetoMOAB/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/clevi/OneDrive/Área de Trabalho/Projeto moab/ProjetoMOAB/Pages/Visitante/Doacoes.cshtml]
+[C:/Users/clevi/OneDrive/Área de Trabalho/ProjetoMoab para testes/ProjetoMOAB/Pages/Visitante/acoes/acoesCordenacao.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlzaXRhbnRlXGFjb2VzXGFjb2VzQ29yZGVuYWNhby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/clevi/OneDrive/Área de Trabalho/ProjetoMoab para testes/ProjetoMOAB/Pages/Visitante/Doacoes.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlzaXRhbnRlXERvYWNvZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/clevi/OneDrive/Área de Trabalho/Projeto moab/ProjetoMOAB/Pages/Visitante/Eventos/evento2022.cshtml]
+[C:/Users/clevi/OneDrive/Área de Trabalho/ProjetoMoab para testes/ProjetoMOAB/Pages/Visitante/Eventos/evento20162017.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlzaXRhbnRlXEV2ZW50b3NcZXZlbnRvMjAxNjIwMTcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/clevi/OneDrive/Área de Trabalho/ProjetoMoab para testes/ProjetoMOAB/Pages/Visitante/Eventos/evento2018.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlzaXRhbnRlXEV2ZW50b3NcZXZlbnRvMjAxOC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/clevi/OneDrive/Área de Trabalho/ProjetoMoab para testes/ProjetoMOAB/Pages/Visitante/Eventos/evento2019.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlzaXRhbnRlXEV2ZW50b3NcZXZlbnRvMjAxOS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/clevi/OneDrive/Área de Trabalho/ProjetoMoab para testes/ProjetoMOAB/Pages/Visitante/Eventos/evento2022.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlzaXRhbnRlXEV2ZW50b3NcZXZlbnRvMjAyMi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/clevi/OneDrive/Área de Trabalho/Projeto moab/ProjetoMOAB/Pages/Visitante/Eventos/EventosMoab.cshtml]
+[C:/Users/clevi/OneDrive/Área de Trabalho/ProjetoMoab para testes/ProjetoMOAB/Pages/Visitante/Eventos/EventosMoab.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlzaXRhbnRlXEV2ZW50b3NcRXZlbnRvc01vYWIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/clevi/OneDrive/Área de Trabalho/Projeto moab/ProjetoMOAB/Pages/Visitante/Testes.cshtml]
+[C:/Users/clevi/OneDrive/Área de Trabalho/ProjetoMoab para testes/ProjetoMOAB/Pages/Visitante/SaibaMais/diretores.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlzaXRhbnRlXFNhaWJhTWFpc1xkaXJldG9yZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/clevi/OneDrive/Área de Trabalho/ProjetoMoab para testes/ProjetoMOAB/Pages/Visitante/SaibaMais/faleconosco.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlzaXRhbnRlXFNhaWJhTWFpc1xmYWxlY29ub3Njby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/clevi/OneDrive/Área de Trabalho/ProjetoMoab para testes/ProjetoMOAB/Pages/Visitante/SaibaMais/legislacao.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlzaXRhbnRlXFNhaWJhTWFpc1xsZWdpc2xhY2FvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/clevi/OneDrive/Área de Trabalho/ProjetoMoab para testes/ProjetoMOAB/Pages/Visitante/SaibaMais/SaibaMais.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlzaXRhbnRlXFNhaWJhTWFpc1xTYWliYU1haXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/clevi/OneDrive/Área de Trabalho/ProjetoMoab para testes/ProjetoMOAB/Pages/Visitante/SaibaMais/trabalhos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlzaXRhbnRlXFNhaWJhTWFpc1x0cmFiYWxob3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/clevi/OneDrive/Área de Trabalho/ProjetoMoab para testes/ProjetoMOAB/Pages/Visitante/Testes.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlzaXRhbnRlXFRlc3Rlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/clevi/OneDrive/Área de Trabalho/Projeto moab/ProjetoMOAB/Pages/_ViewImports.cshtml]
+[C:/Users/clevi/OneDrive/Área de Trabalho/ProjetoMoab para testes/ProjetoMOAB/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/clevi/OneDrive/Área de Trabalho/Projeto moab/ProjetoMOAB/Pages/_ViewStart.cshtml]
+[C:/Users/clevi/OneDrive/Área de Trabalho/ProjetoMoab para testes/ProjetoMOAB/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/clevi/OneDrive/Área de Trabalho/Projeto moab/ProjetoMOAB/Pages/Shared/_Layout.cshtml]
+[C:/Users/clevi/OneDrive/Área de Trabalho/ProjetoMoab para testes/ProjetoMOAB/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-k9ev7zhhax

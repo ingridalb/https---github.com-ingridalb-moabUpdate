@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YeA9vuEUAPE=",
+  "dgSpecHash": "S8dq3lTzUMY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\clevi\\OneDrive\\Área de Trabalho\\ProjetoMoab\\ProjetoMOAB\\ProjetoMOAB.csproj",
+  "projectFilePath": "C:\\Users\\clevi\\OneDrive\\Área de Trabalho\\ProjetoMoab para testes\\ProjetoMOAB\\ProjetoMOAB.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\clevi\\.nuget\\packages\\google.api.commonprotos\\2.15.0\\google.api.commonprotos.2.15.0.nupkg.sha512",
     "C:\\Users\\clevi\\.nuget\\packages\\google.api.gax\\4.8.0\\google.api.gax.4.8.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\clevi\\OneDrive\\Área de Trabalho\\ProjetoMoab\\ProjetoMOAB\\ProjetoMOAB.csproj": {}
+    "C:\\Users\\clevi\\OneDrive\\Área de Trabalho\\ProjetoMoab para testes\\ProjetoMOAB\\ProjetoMOAB.csproj": {}
   },
   "projects": {
-    "C:\\Users\\clevi\\OneDrive\\Área de Trabalho\\ProjetoMoab\\ProjetoMOAB\\ProjetoMOAB.csproj": {
+    "C:\\Users\\clevi\\OneDrive\\Área de Trabalho\\ProjetoMoab para testes\\ProjetoMOAB\\ProjetoMOAB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\clevi\\OneDrive\\Área de Trabalho\\ProjetoMoab\\ProjetoMOAB\\ProjetoMOAB.csproj",
+        "projectUniqueName": "C:\\Users\\clevi\\OneDrive\\Área de Trabalho\\ProjetoMoab para testes\\ProjetoMOAB\\ProjetoMOAB.csproj",
         "projectName": "ProjetoMOAB",
-        "projectPath": "C:\\Users\\clevi\\OneDrive\\Área de Trabalho\\ProjetoMoab\\ProjetoMOAB\\ProjetoMOAB.csproj",
+        "projectPath": "C:\\Users\\clevi\\OneDrive\\Área de Trabalho\\ProjetoMoab para testes\\ProjetoMOAB\\ProjetoMOAB.csproj",
         "packagesPath": "C:\\Users\\clevi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\clevi\\OneDrive\\Área de Trabalho\\ProjetoMoab\\ProjetoMOAB\\obj\\",
+        "outputPath": "C:\\Users\\clevi\\OneDrive\\Área de Trabalho\\ProjetoMoab para testes\\ProjetoMOAB\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\clevi\\AppData\\Roaming\\NuGet\\NuGet.Config",
