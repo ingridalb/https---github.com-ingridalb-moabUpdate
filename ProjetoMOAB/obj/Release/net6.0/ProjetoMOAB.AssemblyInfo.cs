@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProjetoMOAB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d92032c551b66957f5b300304fa6b1f3a878320b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProjetoMOAB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProjetoMOAB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
